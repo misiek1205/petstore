@@ -32,6 +32,7 @@ h1 {
 #closeButton {
   margin: 15px 6px 6px;
 }
+<<<<<<< HEAD
 
 .container { width: 100% }
 .header { font-size: 100px; text-align: center; }
@@ -43,3 +44,5 @@ h1 {
   left: 0;
 }
 .leftTable { width: 300px; }
+=======
+>>>>>>> 5d26cfee17fd43674b811f6aa761c7188a8f92e2

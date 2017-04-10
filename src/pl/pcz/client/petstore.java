@@ -1,6 +1,7 @@
 package pl.pcz.client;
 
 import com.google.gwt.core.client.EntryPoint;
+<<<<<<< HEAD
 import com.google.gwt.user.client.ui.Anchor;
 import com.google.gwt.user.client.ui.FlowPanel;
 import com.google.gwt.user.client.ui.FlexTable;
@@ -65,4 +66,11 @@ public class petstore implements EntryPoint {
 	
 	RootPanel.get().add(vp);
     }
+=======
+
+public class petstore implements EntryPoint {
+
+  public void onModuleLoad() {
+  }
+>>>>>>> 5d26cfee17fd43674b811f6aa761c7188a8f92e2
 }
